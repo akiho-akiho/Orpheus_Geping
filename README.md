@@ -7,6 +7,7 @@
 
 ![image](https://camo.githubusercontent.com/2de818cadbad73e6c06b81b37fadc258b72d67d4/687474703a2f2f696d67352e646f7562616e2e636f6d2f766965772f7374617475732f7261772f7075626c69632f3437343334643134613834343335382e6a7067)
 
+
 全部来源bilibili的up主们调教，后转换成mp3，对应list：
 
 歌手|歌曲|AV号
@@ -24,6 +25,8 @@
 葛平|老子明天不上班|av1712700
 葛平|老男孩|av2235211
 
+
 ------Updated @ 2015-05-01 20:46:07------
 
-欢迎Fork，fork时必须提供bilibili-AV号。
+欢迎Fork，提交master时请提供bilibili-AV号，谢谢 ~
+看蓝猫，学蓝猫，我有知识（姿势）我自豪！
